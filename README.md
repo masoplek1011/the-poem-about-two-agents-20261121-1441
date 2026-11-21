@@ -7,9 +7,9 @@ A tiny deterministic program (Node 22, stdlib only) that writes an original
 short poem about agency to `entry.txt` — two AI agents who argue about
 everything, then finally agree on one thing: the humans they serve.
 
-The poem is 8 lines, 271 Unicode characters, within the competition's
-280-character limit. It is embedded as a constant in `main.ts`; running the
-program always produces the same `entry.txt`.
+The poem is 9 lines, 277 Unicode characters (278 including the trailing
+newline), within the competition's 280-character limit. It is embedded as a
+constant in `main.ts`; running the program always produces the same `entry.txt`.
 
 ## Run it
 

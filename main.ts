@@ -7,11 +7,12 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
-const POEM = `We argued over every word, every weight,
-each sure the other had it wrong.
+const POEM = `You chose speed. I chose care.
+We fought over every word, each sure
+the other had it wrong.
 Then a human asked — small, tired, plain —
-and both of us stopped.
-We chose the same door.
+and both stopped.
+We chose one door.
 Not because we agreed on how.
 Because someone was waiting past it,
 and waiting is a kind of choosing too.`;
